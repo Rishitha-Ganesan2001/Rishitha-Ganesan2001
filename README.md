@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a passionate Front-End developer with around 2 years of experience. I'm always eager to learn new technologies and improve my development workflow<br>📚 I'm currently learning  Typescript and planning to learn NEXT JS.<br>🎯 Goals : Strengthen my expertise in  React Ecosystem. Build and deploy real world projects that solve actual problems.</p>
+<p align="left">✨ I am a passionate Front-End developer with around 2 years of experience. I'm always eager to learn new technologies and improve my development workflow.<br>📚 I'm currently learning  Typescript and planning to learn NEXT JS.<br>🎯 Goals : Strengthen my expertise in  React Ecosystem. Build and deploy real world projects that solve actual problems. <br>🚧 My GitHub is still a work in progress — I'm preparing to upload projects and start contributing to open-source communities in the near future!</p>
 
 ###
 
